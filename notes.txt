@@ -1,0 +1,11 @@
+html- tags,,elements(<>),pharagraph tags <p>, hesding tag <h>
+git 
+and github
+sudo apt install/ apt install g
+itsetup git: creat acc, greate local git in machine
+git config-- global user.name "<user name.
+git config global user.email ""<youer mail>"
+creating ssh keys
+css
+bootstrap
+live server
